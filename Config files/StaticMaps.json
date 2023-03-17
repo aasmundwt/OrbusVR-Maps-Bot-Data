@@ -1,0 +1,94 @@
+{
+  "StaticMaps": [
+    {
+      "Name": "Overworld",
+	  "Emoji": 1041820068742434967,
+      "Link": "/Static%20Maps/Overworld%20half.png"
+    },
+    {
+      "Name": "Highsteppe City Top",
+	  "Emoji": 1041820066724982815,
+      "Link": "/Static%20Maps/HSC%20Top.png"
+    },
+    {
+      "Name": "Highsteppe City Bottom",
+	  "Emoji": 1041824264485085204,
+      "Link": "/Static%20Maps/HSC%20Bottom.png"
+    },
+    {
+      "Name": "The Forsaken Isle",
+	  "Emoji": 1040790653241671740,
+      "Link": "/Static%20Maps/Forsaken%20Isle.png"
+    },
+    {
+      "Name": "Mugwood",
+	  "Emoji": 1040790659197571132,
+      "Link": "/Static%20Maps/Mugwood.png"
+    },
+    {
+      "Name": "Hollow's Creek",
+	  "Emoji": 1040790657368854528,
+      "Link": "/Static%20Maps/Hollow_s%20Creek.png"
+    },
+    {
+      "Name": "Thorndell Meadow",
+	  "Emoji": 1040790643104030822,
+      "Link": "/Static%20Maps/Thorndell%20Meaddow.png"
+    },
+    {
+      "Name": "The Lair",
+	  "Emoji": 1040790641073987744,
+      "Link": "/Static%20Maps/The%20Lair.png"
+    },
+    {
+      "Name": "Crypt",
+	  "Emoji": 1041820064791400468,
+      "Link": "/Static%20Maps/Crypt%20Dungeon.png"
+    },
+    {
+      "Name": "Sewer",
+	  "Emoji": 1041820058474786846,
+      "Link": "/Static%20Maps/Sewer%20Dungeon.png"
+    },
+    {
+      "Name": "Airship",
+	  "Emoji": 1041820060286726204,
+      "Link": "/Static%20Maps/Airship%20Dungeon.png"
+    },
+    {
+      "Name": "Broken Hall",
+	  "Emoji": 1041820062434213918,
+      "Link": "/Static%20Maps/Broken%20Hall%20Dungeon.png"
+    },
+    {
+      "Name": "Abandonned Mine",
+	  "Emoji": 1040790646153285752,
+      "Link": "/Static%20Maps/Abandoned%20Mine%20Dungeon.png"
+    },
+    {
+      "Name": "Ancient Temple",
+	  "Emoji": 1040790647893925908,
+      "Link": "/Static%20Maps/Ancient%20Temple%20Dungeon.png"
+    },
+    {
+      "Name": "K'tula's Cove",
+	  "Emoji": 1040790649718444123,
+      "Link": "/Static%20Maps/K_tula_s%20Cove%20Dungeon.png"
+    },
+    {
+      "Name": "Ruins of Guild City",
+	  "Emoji": 1040790655246536794,
+      "Link": "/Static%20Maps/Guild%20City%20Raid.png"
+    },
+    {
+      "Name": "Citadel Raid",
+	  "Emoji": 1040790651480047617,
+      "Link": "/Static%20Maps/Citadel%20Raid.png"
+    },
+    {
+      "Name": "Plateau of Apophis",
+	  "Emoji": 1047884839602364428,
+      "Link": "/Static%20Maps/Plateau%20of%20Apophis.png"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "StartReferenceTime": "2022-11-25T00:00:00",
+  "PondMapPath": "Pond%20Map.png",
+  "AllFishTimes": [
+    {
+      "Fish": 0,
+	  "Lure":[
+		{
+		  "Name": "Shiny Metal",
+		  "Emoji": 1046872821835509760
+		},
+		{
+		  "Name": "Large Minnow",
+		  "Emoji": 1040767986933440572
+		}
+	  ],
+      "Emoji": 1040768024703152239,
+      "Times": [
+        {
+          "SpawnTimes": [ [ -1048576, 1048575, 0, 0, 0 ] ],
+          "Zones": "+Forsaken Isle north-east\n+Nomad - Scav camp\nxWastelands right eye",
+		  "Requirements":[
+			{
+			"Name": "No Rain",
+			"Emoji": 1046890499614724226
+			},
+			{
+			"Name": "No Flounder",
+			"Emoji": 1046890498264150086
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [ [ 0, 0, -1048576, 1048575, 0 ] ],
+          "Zones": "+Hulthine south\n+Nomad west\nxWastelands left smile",
+		  "Requirements":[
+			{
+			"Name": "No Rain",
+			"Emoji": 1046890499614724226
+			},
+			{
+			"Name": "No Flounder",
+			"Emoji": 1046890498264150086
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [ [ 0, 0, 0, -1048576, 65535 ] ],
+          "Zones": "xForsaken Isle south-east\nxHighsteppe bottom\nxWagon Graveyard",
+		  "Requirements":[
+			{
+			"Name": "No Rain",
+			"Emoji": 1046890499614724226
+			}
+		  ],
+		  "ReqAND": true
+        }
+      ]
+    },
+    {
+      "Fish": 1,
+	  "Lure":[
+		{
+		  "Name": "Snake Bits",
+		  "Emoji": 1046872823110565939
+		},
+		{
+		  "Name": "Bloody Flesh",
+		  "Emoji": 1046872824301764718
+		},
+		{
+		  "Name": "Eye Worm",
+		  "Emoji": 1046872827535568946
+		}
+	  ],
+      "Emoji": 1040767978834231406,
+      "Times": [
+        {
+          "SpawnTimes": [ [ 0, -1048576, 1048575, 0, 0 ] ],
+          "Zones": "+Forsaken Isle west\n+Highsteppe top\n+Wastelands right smile",
+		  "Requirements":[
+			{
+			"Name": "No Rain",
+			"Emoji": 1046890499614724226
+			},
+			{
+			"Name": "No Flounder",
+			"Emoji": 1046890498264150086
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [ [ 0, 0, 0, -1048576, 65535 ] ],
+          "Zones": "xHulthine north\nxRainforest mini\n+Wastelands left eye",
+		  "Requirements":[
+			{
+			"Name": "No Rain",
+			"Emoji": 1046890499614724226
+			},
+			{
+			"Name": "No Flounder",
+			"Emoji": 1046890498264150086
+			}
+		  ],
+		  "ReqAND": true
+        }
+      ]
+    },
+    {
+      "Fish": 2,
+	  "Lure":[
+		{
+		  "Name": "Bloody Flesh",
+		  "Emoji": 1046872824301764718
+		},
+		{
+		  "Name": "Blue Scales",
+		  "Emoji": 1046872825694261379
+		}
+	  ],
+      "Emoji": 1040767967018881095,
+      "Times": [
+        {
+          "SpawnTimes": [ [ 1048575, 0, 0, 0, -65536 ] ],
+          "Zones": "+Hulthine north\nxRainforest mini\n+Wastelands left eye",
+		  "Requirements":[
+			{
+			"Name": "Rain",
+			"Emoji": 1046890500893982762
+			},
+			{
+			"Name": "Clear sky",
+			"Emoji": 1046890496884224030
+			}
+		  ],
+		  "ReqAND": false
+        },
+        {
+          "SpawnTimes": [ [ 0, -1048576, 1048575, 0, 0 ] ],
+          "Zones": "xForsaken Isle north-east\nxNomad - Scav camp\n+Wastelands right eye",
+		  "Requirements":[
+			{
+			"Name": "Rain",
+			"Emoji": 1046890500893982762
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [ [ 0, 0, -1048576, 1048575, 0 ] ],
+          "Zones": "xForsaken Isle west\n+Highsteppe top\n+Wastelands right smile",
+		  "Requirements":[
+			{
+			"Name": "Rain",
+			"Emoji": 1046890500893982762
+			}
+		  ],
+		  "ReqAND": true
+        }
+      ]
+    },
+    {
+      "Fish": 3,
+	  "Lure":[
+		{
+		  "Name": "Fat Fly",
+		  "Emoji": 1046872828621897749
+		},
+		{
+		  "Name": "Snake Bits",
+		  "Emoji": 1046872823110565939
+		},
+		{
+		  "Name": "Shiny Metal",
+		  "Emoji": 1046872821835509760
+		}
+	  ],
+      "Emoji": 1040767971661983754,
+      "Times": [
+        {
+          "SpawnTimes": [ [ -1048576, 1048575, 0, 0, 0 ] ],
+          "Zones": "+Forsaken Isle south-east\n+Highsteppe bottom\nxWagon Graveyard",
+		  "Requirements":[
+			{
+			"Name": "Rain",
+			"Emoji": 1046890500893982762
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [ [ 0, 0, 0, -1048576, 65535 ] ],
+          "Zones": "+Hulthine south\n+Nomads west\n+Wastelands left smile",
+		  "Requirements":[
+			{
+			"Name": "Rain",
+			"Emoji": 1046890500893982762
+			}
+		  ],
+		  "ReqAND": true
+        }
+      ]
+    },
+    {
+      "Fish": 4,
+	  "Lure":[
+		{
+		  "Name": "Bloody Flesh",
+		  "Emoji": 1046872824301764718
+		},
+		{
+		  "Name": "Eye Worm",
+		  "Emoji": 1046872827535568946
+		},
+		{
+		  "Name": "Shiny Metal",
+		  "Emoji": 1046872821835509760
+		}
+	  ],
+      "Emoji": 1040767961478201476,
+      "Times": [
+		{
+          "SpawnTimes": [
+            [ 0, 520617984, 496, 0, 0 ],
+            [ 260046848, -268435208, 7936, 0, 0 ],
+            [ -134217728, 3968, 126976, 0, 0 ],
+            [ -2147483648, 63488, 983040, 0, 0 ],
+            [ 0, 33521664, 31, 0, 0 ]
+          ],
+          "Zones": "+Forsaken Isle west\n+Highsteppe top\n+Wastelands right smile",
+		  "Requirements":[
+			{
+			"Name": "Clear Sky",
+			"Emoji": 1046890496884224030
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [
+            [ 520093711, 496, 0, 0, 16252928 ],
+            [ -268435208, 7936, 0, 0, 260046848 ],
+            [ 3968, 126976, 0, 0, -134217728 ],
+            [ 63488, 983040, 0, 0, -2147483648 ],
+            [ 33521664, 31, 0, 0, 983040 ]
+          ],
+          "Zones": "xForsaken Isle north-east\nxNomad - Scav camp\n+Wastelands right eye",
+		  "Requirements":[
+			{
+			"Name": "Clear Sky",
+			"Emoji": 1046890496884224030
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [
+            [ 496, 0, 0, 15728640, 520093711 ],
+            [ 7936, 0, 0, 260046848, -268435208 ],
+            [ 126976, 0, 0, -134217728, 3968 ],
+            [ 983040, 0, 0, -2147483648, 2095104 ],
+            [ 31, 0, 0, 0, 32538624 ]
+          ],
+          "Zones": "+Forsaken Isle south-east\n+Highsteppe bottom\nxWagon Graveyard",
+		  "Requirements":[
+			{
+			"Name": "Clear Sky",
+			"Emoji": 1046890496884224030
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [
+            [ 0, 0, 0, 520617984, 496 ],
+            [ 0, 0, 260046848, -268435208, 7936 ],
+            [ 0, 0, -134217728, 3968, 61440 ],
+            [ 0, 0, -2147483648, 1112064, 1 ],
+            [ 0, 0, 0, 33521664, 31 ]
+          ],
+          "Zones": "xHulthine north\nxRainforest mini\n+Wastelands left eye",
+		  "Requirements":[
+			{
+			"Name": "Clear Sky",
+			"Emoji": 1046890496884224030
+			}
+		  ],
+		  "ReqAND": true
+        },
+        {
+          "SpawnTimes": [
+            [ 0, 32505856, 520618015, 496, 0 ],
+            [ 0, 528482304, -268434952, 7936, 0 ],
+            [ 0, -134217728, 8064, 126976, 0 ],
+            [ 0, -2147483648, 129024, 983040, 0 ],
+            [ 0, 0, 33521664, 31, 0 ]
+          ],
+          "Zones": "xHulthine south\nxNomads west\n+Wastelands left smile",
+		  "Requirements":[
+			{
+			"Name": "Clear Sky",
+			"Emoji": 1046890496884224030
+			}
+		  ],
+		  "ReqAND": true
+        }
+      ]
+    }
+  ]
+}

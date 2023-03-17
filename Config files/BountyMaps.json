@@ -1,0 +1,400 @@
+{
+    "MapZones": [
+        {
+            "Zone": "Flooded Rainforest",
+            "Maps": [
+                {
+                    "NearestTeleport": "Demon's Cave",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone4-1331147.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone4-1331147.png"
+                },
+                {
+                    "NearestTeleport": "Demon's Cave",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone4-1049342.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone4-1049342.png"
+                },
+                {
+                    "NearestTeleport": "Ocean's Edge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone4-1242-114.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone4-1242-114.png"
+                },
+                {
+                    "NearestTeleport": "Ocean's Edge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone4-1385-281.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone4-1385-281.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Wastelands",
+            "Maps": [
+                {
+                    "NearestTeleport": "Old Growth",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-1830-937.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-1830-937.png"
+                },
+                {
+                    "NearestTeleport": "Cut Throat Forest",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-1781-588.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-1781-588.png"
+                },
+                {
+                    "NearestTeleport": "Essence Ruins",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-1856-33.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-1856-33.png"
+                },
+                {
+                    "NearestTeleport": "Cut Throat Forest",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-1886-348.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-1886-348.png"
+                },
+                {
+                    "NearestTeleport": "Essence Ruins",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-1906-237.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-1906-237.png"
+                },
+                {
+                    "NearestTeleport": "Essence Ruins",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-2087-98.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-2087-98.png"
+                },
+                {
+                    "NearestTeleport": "Old Growth",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-2141-533.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-2141-533.png"
+                },
+                {
+                    "NearestTeleport": "Essence Ruins",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-2189-303.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-2189-303.png"
+                },
+                {
+                    "NearestTeleport": "Old Growth",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-2281-370.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-2281-370.png"
+                },
+                {
+                    "NearestTeleport": "Old Growth",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-2354-525.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-2354-525.png"
+                },
+                {
+                    "NearestTeleport": "Old Growth",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone5-2358-620.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone5-2358-620.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Highsteppe",
+            "Maps": [
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone379-25.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone379-25.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone3-114-135.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone3-114-135.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone3-414-378.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone3-414-378.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone3380-262.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone3380-262.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Lamavora",
+            "Maps": [
+                {
+                    "NearestTeleport": "Knight's Fort",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone1-81-864.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone1-81-864.png"
+                },
+                {
+                    "NearestTeleport": "Vulcans Point",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone1-218-1220.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone1-218-1220.png"
+                },
+                {
+                    "NearestTeleport": "Vulcans Point",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone1-314-802.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone1-314-802.png"
+                },
+                {
+                    "NearestTeleport": "Knight's Fort",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone1256-938.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone1256-938.png"
+                },
+                {
+                    "NearestTeleport": "Knight's Fort",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone1369-723.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone1369-723.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Hulthine's Basin",
+            "Maps": [
+                {
+                    "NearestTeleport": "Flying High",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone2-705-1070.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone2-705-1070.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Mugwood",
+            "Maps": [
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone1-45-254.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone1-45-254.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone1-232270.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone1-232270.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone195-163.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone195-163.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone1144-127.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone1144-127.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone1156-328.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone1156-328.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone1209-15.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone1209-15.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone15252.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone15252.png"
+                },
+                {
+                    "NearestTeleport": "Hidden Garden",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone1232295.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone1232295.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Hollow's Creek",
+            "Maps": [
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2-377-52.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2-377-52.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2-13227.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2-13227.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2-17263.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2-17263.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2-226172.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2-226172.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2-378234.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2-378234.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone226-60.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone226-60.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone298-254.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone298-254.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2159261.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2159261.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2172264.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2172264.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone2207148.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone2207148.png"
+                }
+            ]
+        },
+        {
+            "Zone": "Thorndell Meadow",
+            "Maps": [
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3-69-136.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3-69-136.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3-319-164.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3-319-164.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3-15949.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3-15949.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3-45314.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3-45314.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3-49202.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3-49202.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3-152159.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3-152159.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3199-263.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3199-263.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3270-7.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3270-7.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone38157.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone38157.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3222301.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3222301.png"
+                },
+                {
+                    "NearestTeleport": "Traders Road",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone3308180.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone3308180.png"
+                }
+            ]
+        },
+        {
+            "Zone": "The Lair",
+            "Maps": [
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone4-50-267.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone4-50-267.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone4-28134.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone4-28134.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone4278-223.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone4278-223.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone4183-51.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone4183-51.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone44010.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone44010.png"
+                },
+                {
+                    "NearestTeleport": "Rope Bridge",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_MiniZone4187167.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_MiniZone4187167.png"
+                }
+            ]
+        },
+        {
+            "Zone": "The Forsaken Isle",
+            "Maps": [
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-659796.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-659796.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-855998.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-855998.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-877771.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-877771.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-1313924.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-1313924.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-6081361.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-6081361.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-8811130.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-8811130.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-9861275.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-9861275.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-12401405.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-12401405.png"
+                },
+                {
+                    "NearestTeleport": "Free Fall",
+                    "PathMap": "/Tresure maps/LocationMaps/BountyMap_Zone7-14131300.png",
+                    "PathGameMap": "/Tresure maps/GameMaps/BountyMap_Zone7-14131300.png"
+                }
+            ]
+        }
+    ],
+    "Emoji": 1040790631649386598
+}
