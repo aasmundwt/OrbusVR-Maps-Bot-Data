@@ -5,6 +5,31 @@
 	  "Emoji": 1041820068742434967,
       "Link": "/Static%20Maps/Overworld%20half.png"
     },
+	{
+      "Name": "Highsteppe",
+	  "Emoji": 1041820068742434967,
+      "Link": "/Static%20Maps/Highsteppe.png"
+    },
+	{
+      "Name": "Flooded Rainforest",
+	  "Emoji": 1086822197420630098,
+      "Link": "/Static%20Maps/Flooded%20Rainforest"
+    },
+	{
+      "Name": "Lamavora",
+	  "Emoji": 1086822200092397618,
+      "Link": "/Static%20Maps/Lamavora"
+    },
+	{
+      "Name": "Hulthine's Basin",
+	  "Emoji": 1086822195528990780,
+      "Link": "/Static%20Maps/Hulthine%20Basin"
+    },
+	{
+      "Name": "Wastelands",
+	  "Emoji": 1086822192647512205,
+      "Link": "/Static%20Maps/Wastelands"
+    },
     {
       "Name": "Highsteppe City Top",
 	  "Emoji": 1041820066724982815,
