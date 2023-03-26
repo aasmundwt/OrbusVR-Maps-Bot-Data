@@ -94,7 +94,7 @@
         },
         {
           "SpawnTimes": [ [ 0, 0, 0, -1048576, 65535 ] ],
-          "Zones": "xHulthine north\nxRainforest mini\n+Wastelands left eye",
+          "Zones": "xHulthine north\nxRainforest mini\n+Wastelands left eye\nxForsaken middle",
 		  "Requirements":[
 			{
 			"Name": "No Rain",
@@ -125,7 +125,7 @@
       "Times": [
         {
           "SpawnTimes": [ [ 1048575, 0, 0, 0, -65536 ] ],
-          "Zones": "+Hulthine north\nxRainforest mini\n+Wastelands left eye",
+          "Zones": "+Hulthine north\nxRainforest mini\n+Wastelands left eye\nxForsaken middle",
 		  "Requirements":[
 			{
 			"Name": "Rain",
@@ -281,7 +281,7 @@
             [ 0, 0, -2147483648, 1112064, 1 ],
             [ 0, 0, 0, 33521664, 31 ]
           ],
-          "Zones": "xHulthine north\nxRainforest mini\n+Wastelands left eye",
+          "Zones": "xHulthine north\nxRainforest mini\n+Wastelands left eye\nxForsaken middle",
 		  "Requirements":[
 			{
 			"Name": "Clear Sky",
