@@ -100,7 +100,7 @@
             "Path": "/Flooded Rainforest/Ambassador Horne.png"
         },
         {
-            "SearchTerm": "amulet of loss only visible with ithecac",
+            "SearchTerm": "amulet of loss  only visible with ithecac ",
             "Description": "Amulet of Loss",
             "Zone": "Player House",
             "Type": "Quest Item",
@@ -181,7 +181,7 @@
             "Path": "/Thorndell Meadow/Apprentice Smith5.png"
         },
         {
-            "SearchTerm": "apprentice smithmsq unlock",
+            "SearchTerm": "apprentice smith msq unlock ",
             "Description": "Apprentice Smith(MSQ Unlock)",
             "Zone": "Flooded Rainforest",
             "Type": "NPC",
@@ -190,7 +190,7 @@
             "Path": "/Flooded Rainforest/Apprentice Smith(MSQ Unlock).png"
         },
         {
-            "SearchTerm": "apprentice smithmsq unlock",
+            "SearchTerm": "apprentice smith msq unlock ",
             "Description": "Apprentice Smith(MSQ Unlock)",
             "Zone": "Hulthine's Basin",
             "Type": "NPC",
@@ -199,7 +199,7 @@
             "Path": "/Hulthine's Basin/Apprentice Smith(MSQ Unlock)1.png"
         },
         {
-            "SearchTerm": "apprentice smithmsq unlock",
+            "SearchTerm": "apprentice smith msq unlock ",
             "Description": "Apprentice Smith(MSQ Unlock)",
             "Zone": "Lamavora",
             "Type": "NPC",
@@ -613,7 +613,7 @@
             "Path": "/Highsteppe City/Brotherhood.png"
         },
         {
-            "SearchTerm": "brynjua nm enraged brynjua hm",
+            "SearchTerm": "brynjua  nm  enraged brynjua  hm ",
             "Description": "Brynjua (NM)\nEnraged Brynjua (HM)",
             "Zone": "Citadel Raid",
             "Type": "Boss",
@@ -766,7 +766,7 @@
             "Path": "/Lamavora/Captain Jethin.png"
         },
         {
-            "SearchTerm": "capture moonflies player activated",
+            "SearchTerm": "capture moonflies  player activated ",
             "Description": "Capture Moonflies",
             "Zone": "Hollow's Creek",
             "Type": "Public Event",
@@ -892,7 +892,7 @@
             "Path": "/Wastelands/Chytrilealtro1.png"
         },
         {
-            "SearchTerm": "citadel raid in tunnel from dragon racing shop",
+            "SearchTerm": "citadel raid  in tunnel from dragon racing shop ",
             "Description": "Citadel Raid",
             "Zone": "Highsteppe City",
             "Type": "Zone/Dungeon/Raid",
@@ -1036,7 +1036,7 @@
             "Path": "/Thorndell Meadow/Crabbit.png"
         },
         {
-            "SearchTerm": "crabbitcaged",
+            "SearchTerm": "crabbit caged ",
             "Description": "Crabbit(Caged)",
             "Zone": "Mugwood",
             "Type": "Quest NPC",
@@ -1207,7 +1207,7 @@
             "Path": "/Highsteppe City/Decurse.png"
         },
         {
-            "SearchTerm": "defend the outpost player activated",
+            "SearchTerm": "defend the outpost  player activated ",
             "Description": "Defend the Outpost",
             "Zone": "Thorndell Meadow",
             "Type": "Public Event",
@@ -1234,7 +1234,7 @@
             "Path": "/Wastelands/Diary of Lady Adalyn Wender.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 17",
+            "SearchTerm": "diary of lord ethan runval entry 1 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 1/7",
             "Zone": "Highsteppe City",
             "Type": "Lore",
@@ -1243,7 +1243,7 @@
             "Path": "/Highsteppe City/Diary of Lord Ethan Runval.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 27",
+            "SearchTerm": "diary of lord ethan runval entry 2 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 2/7",
             "Zone": "Highsteppe City",
             "Type": "Lore",
@@ -1252,7 +1252,7 @@
             "Path": "/Highsteppe City/Diary of Lord Ethan Runval1.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 37",
+            "SearchTerm": "diary of lord ethan runval entry 3 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 3/7",
             "Zone": "Lamavora",
             "Type": "Lore",
@@ -1261,7 +1261,7 @@
             "Path": "/Lamavora/Diary of Lord Ethan Runval2.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 47",
+            "SearchTerm": "diary of lord ethan runval entry 4 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 4/7",
             "Zone": "Hulthine's Basin",
             "Type": "Lore",
@@ -1270,7 +1270,7 @@
             "Path": "/Hulthine's Basin/Diary of Lord Ethan Runval3.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 57",
+            "SearchTerm": "diary of lord ethan runval entry 5 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 5/7",
             "Zone": "Hulthine's Basin",
             "Type": "Lore",
@@ -1279,7 +1279,7 @@
             "Path": "/Hulthine's Basin/Diary of Lord Ethan Runval4.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 67",
+            "SearchTerm": "diary of lord ethan runval entry 6 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 6/7",
             "Zone": "Flooded Rainforest",
             "Type": "Lore",
@@ -1288,7 +1288,7 @@
             "Path": "/Flooded Rainforest/Diary of Lord Ethan Runval5.png"
         },
         {
-            "SearchTerm": "diary of lord ethan runval entry 77",
+            "SearchTerm": "diary of lord ethan runval entry 7 7",
             "Description": "Diary of Lord Ethan Runval\nEntry 7/7",
             "Zone": "Wastelands",
             "Type": "Lore",
@@ -1297,7 +1297,7 @@
             "Path": "/Wastelands/Diary of Lord Ethan Runval6.png"
         },
         {
-            "SearchTerm": "disgraced explorer and archeologist settles in town",
+            "SearchTerm": "disgraced explorer and archeologist settles in town ",
             "Description": "DISGRACED EXPLORER AND\nARCHEOLOGIST SETTLES IN TOWN!",
             "Zone": "Highsteppe City",
             "Type": "Lore",
@@ -1360,7 +1360,7 @@
             "Path": "/The Forsaken Isle/Dwarf Shark1.png"
         },
         {
-            "SearchTerm": "dye assistantmsq unlock",
+            "SearchTerm": "dye assistant msq unlock ",
             "Description": "Dye Assistant(MSQ Unlock)",
             "Zone": "Hulthine's Basin",
             "Type": "Vendor",
@@ -1405,7 +1405,7 @@
             "Path": "/Highsteppe/Elite Stafrusher.png"
         },
         {
-            "SearchTerm": "elite tear brutenameless",
+            "SearchTerm": "elite tear brute nameless ",
             "Description": "Elite Tear Brute(Nameless)",
             "Zone": "Lamavora",
             "Type": "Tear/Void Mob",
@@ -1621,7 +1621,7 @@
             "Path": "/Wastelands/Enraged Scav Knight2.png"
         },
         {
-            "SearchTerm": "enraged sephotep nm inflamed sephotep hm",
+            "SearchTerm": "enraged sephotep  nm  inflamed sephotep  hm ",
             "Description": "Enraged Sephotep (NM)\nInflamed Sephotep (HM)",
             "Zone": "Citadel Raid",
             "Type": "Boss",
@@ -1630,7 +1630,7 @@
             "Path": "/Citadel Raid/Enraged Sephotep (NM).png"
         },
         {
-            "SearchTerm": "enraged sephotep first portal",
+            "SearchTerm": "enraged sephotep  first portal",
             "Description": "Enraged Sephotep: First Portal",
             "Zone": "Citadel Raid",
             "Type": "Bug",
@@ -1639,7 +1639,7 @@
             "Path": "/Citadel Raid/Enraged Sephotep First Portal.png"
         },
         {
-            "SearchTerm": "enraged sephotep second portal",
+            "SearchTerm": "enraged sephotep  second portal",
             "Description": "Enraged Sephotep: Second Portal",
             "Zone": "Citadel Raid",
             "Type": "Other Mob",
@@ -1648,7 +1648,7 @@
             "Path": "/Citadel Raid/Enraged Sephotep Second Portal.png"
         },
         {
-            "SearchTerm": "enraged sephotep third portal",
+            "SearchTerm": "enraged sephotep  third portal",
             "Description": "Enraged Sephotep: Third Portal",
             "Zone": "Citadel Raid",
             "Type": "Necro Mob",
@@ -1972,7 +1972,7 @@
             "Path": "/Highsteppe City/Fireball 1.png"
         },
         {
-            "SearchTerm": "fireball 23",
+            "SearchTerm": "fireball 2 3",
             "Description": "Fireball 2/3",
             "Zone": "Highsteppe City",
             "Type": "Spell Rune",
@@ -2062,7 +2062,7 @@
             "Path": "/Hollow's Creek/Forager.png"
         },
         {
-            "SearchTerm": "foragershipping cart",
+            "SearchTerm": "forager shipping cart ",
             "Description": "Forager(Shipping cart)",
             "Zone": "Hollow's Creek",
             "Type": "Questgiver",
@@ -2116,7 +2116,7 @@
             "Path": "/Highsteppe City/Frost 1.png"
         },
         {
-            "SearchTerm": "frost 23",
+            "SearchTerm": "frost 2 3",
             "Description": "Frost 2/3",
             "Zone": "Highsteppe City",
             "Type": "Spell Rune",
@@ -2197,7 +2197,7 @@
             "Path": "/Hollow's Creek/Fruit Smuggler.png"
         },
         {
-            "SearchTerm": "fugitivegrim reaper iv",
+            "SearchTerm": "fugitive grim reaper iv ",
             "Description": "Fugitive(Grim Reaper IV)",
             "Zone": "Flooded Rainforest",
             "Type": "Quest Mob",
@@ -2206,7 +2206,7 @@
             "Path": "/Flooded Rainforest/Fugitive(Grim Reaper IV).png"
         },
         {
-            "SearchTerm": "grinding inventor",
+            "SearchTerm": "g r i n d i n g inventor",
             "Description": "G.R.I.N.D.I.N.G Inventor",
             "Zone": "Highsteppe City",
             "Type": "Vendor",
@@ -2215,7 +2215,7 @@
             "Path": "/Highsteppe City/G.R.I.N.D.I.N.G Inventor.png"
         },
         {
-            "SearchTerm": "gather acorns player activated",
+            "SearchTerm": "gather acorns  player activated ",
             "Description": "Gather Acorns",
             "Zone": "Mugwood",
             "Type": "Public Event",
@@ -2242,7 +2242,7 @@
             "Path": "/Lamavora/General Minion.png"
         },
         {
-            "SearchTerm": "geruvi nm enraged geruvi hm",
+            "SearchTerm": "geruvi  nm  enraged geruvi  hm ",
             "Description": "Geruvi (NM)\nEnraged Geruvi (HM)",
             "Zone": "Citadel Raid",
             "Type": "Boss",
@@ -2267,6 +2267,15 @@
             "NearestTeleport": "Demon's Cave",
             "Emoji": 1040768898162757652,
             "Path": "/Flooded Rainforest/Giant Potion.png"
+        },
+        {
+            "SearchTerm": "glen reporter enquirer",
+            "Description": "Glen",
+            "Zone": "Highsteppe City",
+            "Type": "Questgiver",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768759176114367,
+            "Path": "/Highsteppe City/Glen.png"
         },
         {
             "SearchTerm": "goomby",
@@ -2656,7 +2665,7 @@
             "Path": "/Highsteppe City/Highsteppe Tavern.png"
         },
         {
-            "SearchTerm": "hollows creekdlc",
+            "SearchTerm": "hollows creek dlc ",
             "Description": "Hollow's Creek(DLC)",
             "Zone": "Highsteppe",
             "Type": "Zone/Dungeon/Raid",
@@ -2782,7 +2791,7 @@
             "Path": "/Highsteppe City/Junior League Leader.png"
         },
         {
-            "SearchTerm": "ktulas cove",
+            "SearchTerm": "k tula s cove",
             "Description": "K’tula’s Cove",
             "Zone": "Flooded Rainforest",
             "Type": "Zone/Dungeon/Raid",
@@ -2807,15 +2816,6 @@
             "NearestTeleport": "Essence Ruins",
             "Emoji": 1040768883767922909,
             "Path": "/Wastelands/Key Thief.png"
-        },
-        {
-            "SearchTerm": "khabor jan",
-            "Description": "Khabor Jan",
-            "Zone": "Player House",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Player House/Khabor Jan.png"
         },
         {
             "SearchTerm": "king stag",
@@ -3142,7 +3142,7 @@
             "Path": "/Highsteppe City/Local6.png"
         },
         {
-            "SearchTerm": "local in airship tower",
+            "SearchTerm": "local  in airship tower ",
             "Description": "Local (in airship tower)",
             "Zone": "Highsteppe City",
             "Type": "Quest NPC",
@@ -3178,7 +3178,7 @@
             "Path": "/Player House/Lost Account of Lakewood Inn.png"
         },
         {
-            "SearchTerm": "lucal lizardhidden gems",
+            "SearchTerm": "lucal lizard hidden gems ",
             "Description": "Lucal Lizard(Hidden Gems)",
             "Zone": "Mugwood",
             "Type": "Questgiver",
@@ -3331,40 +3331,58 @@
             "Path": "/Highsteppe City/Misc Dye Recipes.png"
         },
         {
-            "SearchTerm": "missing persons 8",
-            "Description": "Missing Persons 8",
-            "Zone": "Guild City Raid",
-            "Type": "Quest Item",
-            "NearestTeleport": "Demon's Cave",
-            "Emoji": 1040768871822532608,
-            "Path": "/Guild City Raid/Missing Persons 8.png"
+            "SearchTerm": "missing persons i khabor jan hidden quest",
+            "Description": "Missing persons I\nKhabor Jan",
+            "Zone": "Player House",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Player House/Missing persons I.png"
         },
         {
-            "SearchTerm": "missing persons npc",
-            "Description": "Missing Persons NPC",
-            "Zone": "Highsteppe",
-            "Type": "Questgiver",
-            "NearestTeleport": "Rope Bridge",
-            "Emoji": 1040768759176114367,
-            "Path": "/Highsteppe/Missing Persons NPC.png"
-        },
-        {
-            "SearchTerm": "missing persons scroll",
-            "Description": "Missing Persons, Scroll",
+            "SearchTerm": "missing persons ii scroll hidden quest",
+            "Description": "Missing Persons II",
             "Zone": "Highsteppe",
             "Type": "Quest Item",
             "NearestTeleport": "Traders Road",
             "Emoji": 1040768905855107096,
-            "Path": "/Highsteppe/Missing Persons, Scroll.png"
+            "Path": "/Highsteppe/Missing Persons II.png"
         },
         {
-            "SearchTerm": "missing persons sword",
-            "Description": "Missing Persons, Sword",
+            "SearchTerm": "missing persons v ethan hidden quest",
+            "Description": "Missing Persons V",
+            "Zone": "Highsteppe",
+            "Type": "Questgiver",
+            "NearestTeleport": "Rope Bridge",
+            "Emoji": 1040768759176114367,
+            "Path": "/Highsteppe/Missing Persons V.png"
+        },
+        {
+            "SearchTerm": "missing persons vi the ideas of janism hidden quest",
+            "Description": "Missing persons VI\nThe Ideas of Janism",
+            "Zone": "Highsteppe City",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Highsteppe City/Missing persons VI.png"
+        },
+        {
+            "SearchTerm": "missing persons vii sword hidden quest",
+            "Description": "Missing Persons VII",
             "Zone": "Lamavora",
             "Type": "Quest Item",
             "NearestTeleport": "Knight's Fort",
             "Emoji": 1040790545406099506,
-            "Path": "/Lamavora/Missing Persons, Sword.png"
+            "Path": "/Lamavora/Missing Persons VII.png"
+        },
+        {
+            "SearchTerm": "missing persons viii wand hidden quest",
+            "Description": "Missing Persons VIII",
+            "Zone": "Guild City Raid",
+            "Type": "Quest Item",
+            "NearestTeleport": "Demon's Cave",
+            "Emoji": 1040768871822532608,
+            "Path": "/Guild City Raid/Missing Persons VIII.png"
         },
         {
             "SearchTerm": "mist keeper",
@@ -3385,7 +3403,7 @@
             "Path": "/Highsteppe/Mouse Trap.png"
         },
         {
-            "SearchTerm": "mugwooddlc",
+            "SearchTerm": "mugwood dlc ",
             "Description": "Mugwood(DLC)",
             "Zone": "Highsteppe",
             "Type": "Zone/Dungeon/Raid",
@@ -3421,7 +3439,7 @@
             "Path": "/Flooded Rainforest/Nahomium.png"
         },
         {
-            "SearchTerm": "napur nm enraged napur hm",
+            "SearchTerm": "napur  nm  enraged napur  hm ",
             "Description": "Napur (NM)\nEnraged Napur (HM)",
             "Zone": "Citadel Raid",
             "Type": "Boss",
@@ -3853,7 +3871,7 @@
             "Path": "/Player House/Potions of Boosting.png"
         },
         {
-            "SearchTerm": "pushback 12",
+            "SearchTerm": "pushback 1 2",
             "Description": "Pushback 1/2",
             "Zone": "Highsteppe City",
             "Type": "Spell Rune",
@@ -3880,7 +3898,7 @@
             "Path": "/Highsteppe/Queens Ear.png"
         },
         {
-            "SearchTerm": "rabbagecaged",
+            "SearchTerm": "rabbage caged ",
             "Description": "Rabbage(Caged)",
             "Zone": "Mugwood",
             "Type": "Quest NPC",
@@ -3979,19 +3997,10 @@
             "Path": "/Flooded Rainforest/Reedflute.png"
         },
         {
-            "SearchTerm": "reporter",
-            "Description": "Reporter",
-            "Zone": "Highsteppe City",
-            "Type": "Questgiver",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768759176114367,
-            "Path": "/Highsteppe City/Reporter.png"
-        },
-        {
             "SearchTerm": "resurrection ritual",
             "Description": "Resurrection Ritual",
             "Zone": "Highsteppe City",
-            "Type": "Spell Rune",
+            "Type": "Quest Item",
             "NearestTeleport": "",
             "Emoji": 1040768900025036841,
             "Path": "/Highsteppe City/Resurrection Ritual.png"
@@ -4024,7 +4033,7 @@
             "Path": "/Wastelands/Ridgeback Fish1.png"
         },
         {
-            "SearchTerm": "rock giant activate all the pillars by touching them with their respective class",
+            "SearchTerm": "rock giant activate all the pillars by touching them with their respective class ",
             "Description": "Rock Giant",
             "Zone": "Hulthine's Basin",
             "Type": "Boss",
@@ -4060,7 +4069,7 @@
             "Path": "/Lamavora/Rotospore.png"
         },
         {
-            "SearchTerm": "ruins of guild city raid hard",
+            "SearchTerm": "ruins of guild city raid  hard ",
             "Description": "Ruins Of Guild City Raid (Hard)",
             "Zone": "Highsteppe City",
             "Type": "Zone/Dungeon/Raid",
@@ -4069,7 +4078,7 @@
             "Path": "/Highsteppe City/Ruins Of Guild City Raid (Hard).png"
         },
         {
-            "SearchTerm": "ruins of guild city raid normal",
+            "SearchTerm": "ruins of guild city raid  normal ",
             "Description": "Ruins Of Guild City Raid (Normal)",
             "Zone": "Flooded Rainforest",
             "Type": "Zone/Dungeon/Raid",
@@ -4159,7 +4168,7 @@
             "Path": "/Hulthine's Basin/Scav Buckler.png"
         },
         {
-            "SearchTerm": "scav giant get scav giant to kill 6 midnight wargs with its smash attack to enrage it",
+            "SearchTerm": "scav giant get scav giant to kill 6 midnight wargs with its  smash  attack to enrage it ",
             "Description": "Scav Giant",
             "Zone": "Hulthine's Basin",
             "Type": "Boss",
@@ -4285,7 +4294,7 @@
             "Path": "/The Forsaken Isle/Shadow Warrior.png"
         },
         {
-            "SearchTerm": "shard vendormsq unlock",
+            "SearchTerm": "shard vendor msq unlock ",
             "Description": "Shard Vendor(MSQ Unlock)",
             "Zone": "Flooded Rainforest",
             "Type": "Vendor",
@@ -4321,7 +4330,7 @@
             "Path": "/Highsteppe/Sicilus Grimoire Entry.png"
         },
         {
-            "SearchTerm": "sicilusdragon racing missions",
+            "SearchTerm": "sicilus dragon racing missions ",
             "Description": "Sicilus(Dragon Racing Missions)",
             "Zone": "Highsteppe City",
             "Type": "Mission Vendor",
@@ -4438,7 +4447,7 @@
             "Path": "/Highsteppe City/Smith's Hammer.png"
         },
         {
-            "SearchTerm": "smoke essence and gears mechanisms of the lost race",
+            "SearchTerm": "smoke  essence and gears  mechanisms of the lost race",
             "Description": "Smoke, Essence and Gears:\nMechanisms of the Lost Race",
             "Zone": "Highsteppe City",
             "Type": "Lore",
@@ -4492,7 +4501,7 @@
             "Path": "/Thorndell Meadow/Soldier in need of help.png"
         },
         {
-            "SearchTerm": "soldierfield patrol ii",
+            "SearchTerm": "soldier field patrol ii ",
             "Description": "Soldier(Field Patrol II)",
             "Zone": "Thorndell Meadow",
             "Type": "Questgiver",
@@ -4501,7 +4510,7 @@
             "Path": "/Thorndell Meadow/Soldier(Field Patrol II).png"
         },
         {
-            "SearchTerm": "soldierfield patrol",
+            "SearchTerm": "soldier field patrol ",
             "Description": "Soldier(Field Patrol)",
             "Zone": "Thorndell Meadow",
             "Type": "Questgiver",
@@ -5077,7 +5086,7 @@
             "Path": "/Highsteppe City/The Beginning.png"
         },
         {
-            "SearchTerm": "the cigar merchant  by ernest trimm chapter ii page 1",
+            "SearchTerm": "the cigar merchant  by ernest trimm chapter ii  page 1",
             "Description": "The Cigar Merchant \nBy Ernest Trimm\nChapter II, Page 1",
             "Zone": "Lamavora",
             "Type": "Quest Item",
@@ -5086,7 +5095,7 @@
             "Path": "/Lamavora/The Cigar Merchant .png"
         },
         {
-            "SearchTerm": "the cigar merchant  by ernest trimm chapter ii page 2",
+            "SearchTerm": "the cigar merchant  by ernest trimm chapter ii  page 2",
             "Description": "The Cigar Merchant \nBy Ernest Trimm\nChapter II, Page 2",
             "Zone": "Lamavora",
             "Type": "Quest Item",
@@ -5113,7 +5122,7 @@
             "Path": "/Flooded Rainforest/The Cigar Merchant3.png"
         },
         {
-            "SearchTerm": "the cigar merchant by ernest trimm chapter ii page 35",
+            "SearchTerm": "the cigar merchant by ernest trimm chapter ii  page 3 5",
             "Description": "The Cigar Merchant\nBy Ernest Trimm\nChapter II, Page 3-5",
             "Zone": "Lamavora",
             "Type": "Lore",
@@ -5122,7 +5131,7 @@
             "Path": "/Lamavora/The Cigar Merchant4.png"
         },
         {
-            "SearchTerm": "the cigar merchant by ernest trimm chapter iv  v",
+            "SearchTerm": "the cigar merchant by ernest trimm chapter iv   v",
             "Description": "The Cigar Merchant\nBy Ernest Trimm\nChapter IV - V",
             "Zone": "Highsteppe City",
             "Type": "Lore",
@@ -5131,7 +5140,7 @@
             "Path": "/Highsteppe City/The Cigar Merchant5.png"
         },
         {
-            "SearchTerm": "the cleansing of lvisile",
+            "SearchTerm": "the cleansing of l visile",
             "Description": "The Cleansing of Lévisile",
             "Zone": "Player House",
             "Type": "Lore",
@@ -5167,16 +5176,7 @@
             "Path": "/Player House/The History of the Great Shift.png"
         },
         {
-            "SearchTerm": "the ideas of janism",
-            "Description": "The Ideas of Janism",
-            "Zone": "Highsteppe City",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe City/The Ideas of Janism.png"
-        },
-        {
-            "SearchTerm": "the lairdlc",
+            "SearchTerm": "the lair dlc ",
             "Description": "The Lair(DLC)",
             "Zone": "Highsteppe",
             "Type": "Zone/Dungeon/Raid",
@@ -5185,7 +5185,7 @@
             "Path": "/Highsteppe/The Lair(DLC).png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos chapter 1  2",
+            "SearchTerm": "the tragic tale of oscar and markos chapter 1   2",
             "Description": "The Tragic Tale of Oscar and Markos\nChapter 1 - 2",
             "Zone": "Player House",
             "Type": "Lore",
@@ -5194,7 +5194,7 @@
             "Path": "/Player House/The Tragic Tale of Oscar and Markos.png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos chapter 3  4",
+            "SearchTerm": "the tragic tale of oscar and markos chapter 3   4",
             "Description": "The Tragic Tale of Oscar and Markos\nChapter 3 - 4",
             "Zone": "Player House",
             "Type": "Lore",
@@ -5212,7 +5212,7 @@
             "Path": "/Player House/The Tragic Tale of Oscar and Markos2.png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos chapter 5  6",
+            "SearchTerm": "the tragic tale of oscar and markos  chapter 5   6",
             "Description": "The Tragic Tale of Oscar and Markos,\nChapter 5 - 6",
             "Zone": "Player House",
             "Type": "Lore",
@@ -5221,7 +5221,7 @@
             "Path": "/Player House/The Tragic Tale of Oscar and Markos,.png"
         },
         {
-            "SearchTerm": "thorndell meadowdlc",
+            "SearchTerm": "thorndell meadow dlc ",
             "Description": "Thorndell Meadow(DLC)",
             "Zone": "Highsteppe",
             "Type": "Zone/Dungeon/Raid",
@@ -5446,7 +5446,7 @@
             "Path": "/Mugwood/Villager2.png"
         },
         {
-            "SearchTerm": "villagerbeetle escort",
+            "SearchTerm": "villager beetle escort ",
             "Description": "Villager(Beetle escort)",
             "Zone": "Mugwood",
             "Type": "Questgiver",
@@ -5455,7 +5455,7 @@
             "Path": "/Mugwood/Villager(Beetle escort).png"
         },
         {
-            "SearchTerm": "villagergrim reaper i",
+            "SearchTerm": "villager grim reaper i ",
             "Description": "Villager(Grim Reaper I)",
             "Zone": "Highsteppe",
             "Type": "Quest Mob",
@@ -5464,7 +5464,7 @@
             "Path": "/Highsteppe/Villager(Grim Reaper I).png"
         },
         {
-            "SearchTerm": "villagergrim reaper ii",
+            "SearchTerm": "villager grim reaper ii ",
             "Description": "Villager(Grim Reaper II)",
             "Zone": "Wastelands",
             "Type": "Quest Mob",
@@ -5581,7 +5581,7 @@
             "Path": "/Flooded Rainforest/Wagon Graveyard.png"
         },
         {
-            "SearchTerm": "warriorgrim reaper iii",
+            "SearchTerm": "warrior grim reaper iii ",
             "Description": "Warrior(Grim Reaper III)",
             "Zone": "Lamavora",
             "Type": "Quest Mob",
@@ -5689,7 +5689,7 @@
             "Path": "/Lamavora/Yorick.png"
         },
         {
-            "SearchTerm": "zaarpafter escort",
+            "SearchTerm": "zaarp after escort ",
             "Description": "Zaarp(After Escort)",
             "Zone": "Mugwood",
             "Type": "Questgiver",
@@ -5698,7 +5698,7 @@
             "Path": "/Mugwood/Zaarp(After Escort).png"
         },
         {
-            "SearchTerm": "zaarppreescort",
+            "SearchTerm": "zaarp pre escort ",
             "Description": "Zaarp(Pre-Escort)",
             "Zone": "Mugwood",
             "Type": "Questgiver",
