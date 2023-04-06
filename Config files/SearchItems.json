@@ -264,6 +264,15 @@
         {
             "SearchTerm": "asassian scav",
             "Description": "Asassian Scav",
+            "Zone": "Abandoned Mine",
+            "Type": "Scav",
+            "NearestTeleport": "",
+            "Emoji": 1040768427603800184,
+            "Path": "/Abandoned Mine/Asassian Scav.png"
+        },
+        {
+            "SearchTerm": "asassian scav",
+            "Description": "Asassian Scav",
             "Zone": "Wastelands",
             "Type": "Scav",
             "NearestTeleport": "",
@@ -793,6 +802,15 @@
             "Path": "/Player House/Chamelion Potion.png"
         },
         {
+            "SearchTerm": "chaos bat",
+            "Description": "Chaos Bat",
+            "Zone": "K'tula's Cove",
+            "Type": "Chaos Mob",
+            "NearestTeleport": "",
+            "Emoji": 1040768244304314418,
+            "Path": "/K'tula's Cove/Chaos Bat.png"
+        },
+        {
             "SearchTerm": "chaos blade piece 1 I",
             "Description": "Chaos Blade piece I",
             "Zone": "Wastelands",
@@ -836,6 +854,24 @@
             "NearestTeleport": "Old Growth",
             "Emoji": 1040790544093290526,
             "Path": "/Wastelands/Chaos Blade piece V.png"
+        },
+        {
+            "SearchTerm": "chaos claw",
+            "Description": "Chaos Claw",
+            "Zone": "K'tula's Cove",
+            "Type": "Chaos Mob",
+            "NearestTeleport": "",
+            "Emoji": 1040768252164444240,
+            "Path": "/K'tula's Cove/Chaos Claw.png"
+        },
+        {
+            "SearchTerm": "chaos frod",
+            "Description": "Chaos Frod",
+            "Zone": "K'tula's Cove",
+            "Type": "Chaos Mob",
+            "NearestTeleport": "",
+            "Emoji": 1040768253439520778,
+            "Path": "/K'tula's Cove/Chaos Frod.png"
         },
         {
             "SearchTerm": "chaos giant",
@@ -1304,6 +1340,15 @@
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
             "Path": "/Highsteppe City/DISGRACED EXPLORER AND.png"
+        },
+        {
+            "SearchTerm": "dovregubben",
+            "Description": "Dovregubben",
+            "Zone": "Abandoned Mine",
+            "Type": "Boss",
+            "NearestTeleport": "Old Growth",
+            "Emoji": 1040768273110802442,
+            "Path": "/Abandoned Mine/Dovregubben.png"
         },
         {
             "SearchTerm": "dragon info",
@@ -2818,6 +2863,15 @@
             "Path": "/Wastelands/Key Thief.png"
         },
         {
+            "SearchTerm": "king karnos",
+            "Description": "King Kar'Nos",
+            "Zone": "K'tula's Cove",
+            "Type": "Boss",
+            "NearestTeleport": "Wagon Graveyard",
+            "Emoji": 1040768295822958692,
+            "Path": "/K'tula's Cove/King Kar'Nos.png"
+        },
+        {
             "SearchTerm": "king stag",
             "Description": "King Stag",
             "Zone": "Highsteppe",
@@ -3221,6 +3275,15 @@
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768759176114367,
             "Path": "/Highsteppe City/Markos of Runvale.png"
+        },
+        {
+            "SearchTerm": "marksman scav",
+            "Description": "Marksman Scav",
+            "Zone": "Abandoned Mine",
+            "Type": "Scav",
+            "NearestTeleport": "",
+            "Emoji": 1040768421782093865,
+            "Path": "/Abandoned Mine/Marksman Scav.png"
         },
         {
             "SearchTerm": "marksman scav",
@@ -3783,6 +3846,15 @@
         {
             "SearchTerm": "pistoler scav",
             "Description": "Pistoler Scav",
+            "Zone": "Abandoned Mine",
+            "Type": "Scav",
+            "NearestTeleport": "",
+            "Emoji": 1040768424638435379,
+            "Path": "/Abandoned Mine/Pistoler Scav.png"
+        },
+        {
+            "SearchTerm": "pistoler scav",
+            "Description": "Pistoler Scav",
             "Zone": "Wastelands",
             "Type": "Scav",
             "NearestTeleport": "",
@@ -4179,6 +4251,15 @@
         {
             "SearchTerm": "scav knight",
             "Description": "Scav Knight",
+            "Zone": "Abandoned Mine",
+            "Type": "Scav",
+            "NearestTeleport": "",
+            "Emoji": 1040768416405004438,
+            "Path": "/Abandoned Mine/Scav Knight.png"
+        },
+        {
+            "SearchTerm": "scav knight",
+            "Description": "Scav Knight",
             "Zone": "Wastelands",
             "Type": "Scav",
             "NearestTeleport": "",
@@ -4193,6 +4274,15 @@
             "NearestTeleport": "Old Growth",
             "Emoji": 1040768755820675222,
             "Path": "/Wastelands/Scav Outpost.png"
+        },
+        {
+            "SearchTerm": "scav shaman",
+            "Description": "Scav Shaman",
+            "Zone": "Abandoned Mine",
+            "Type": "Boss",
+            "NearestTeleport": "Old Growth",
+            "Emoji": 1040768431751958618,
+            "Path": "/Abandoned Mine/Scav Shaman.png"
         },
         {
             "SearchTerm": "scav trader",
@@ -4211,6 +4301,15 @@
             "NearestTeleport": "Old Growth",
             "Emoji": 1040790632920272906,
             "Path": "/Wastelands/Scav's Revenge.png"
+        },
+        {
+            "SearchTerm": "scyllaman",
+            "Description": "Scyllaman",
+            "Zone": "K'tula's Cove",
+            "Type": "Chaos Mob",
+            "NearestTeleport": "",
+            "Emoji": 1040768435149340782,
+            "Path": "/K'tula's Cove/Scyllaman.png"
         },
         {
             "SearchTerm": "seamstress",
@@ -4625,6 +4724,15 @@
             "NearestTeleport": "Hidden Garden",
             "Emoji": 1040768879426809936,
             "Path": "/Mugwood/Spyglass.png"
+        },
+        {
+            "SearchTerm": "squipee",
+            "Description": "Squipee",
+            "Zone": "K'tula's Cove",
+            "Type": "Chaos Mob",
+            "NearestTeleport": "",
+            "Emoji": 1040768376936607864,
+            "Path": "/K'tula's Cove/Squipee.png"
         },
         {
             "SearchTerm": "stafrage",
@@ -5597,6 +5705,15 @@
             "NearestTeleport": "Flying High",
             "Emoji": 1040790632920272906,
             "Path": "/Hulthine's Basin/Water Slide.png"
+        },
+        {
+            "SearchTerm": "water wyvern",
+            "Description": "Water Wyvern",
+            "Zone": "K'tula's Cove",
+            "Type": "Boss",
+            "NearestTeleport": "Wagon Graveyard",
+            "Emoji": 1040768399493566554,
+            "Path": "/K'tula's Cove/Water Wyvern.png"
         },
         {
             "SearchTerm": "watertode",
