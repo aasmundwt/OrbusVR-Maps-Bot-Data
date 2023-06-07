@@ -2,8 +2,6 @@
 This contains a collection of maps that show the location of most, if not all objects in OrbusVR:Reborn and is primarilly used by the OrbusVR Maps discord bot.
 There are also full detailed maps, and some config files.
 
-For the bounty maps, the name of the location map matches that of the in-game clue map.
-
 Config Files
 SearchItems.json contains a complete directory of the location maps;
  SearchTerm, is what I use to search ond sort the objects in the maps bot.
