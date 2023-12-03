@@ -1,0 +1,214 @@
+{
+  "Alchemy": [
+    {
+      "Name": "Healing Potion",
+	  "Emoji": 1180732369125249114,
+      "Link": "/Alchemy/Healing%20Potion.png"
+    },
+	{
+      "Name": "Concentrated Healing Potion",
+	  "Emoji": 1180732372166135869,
+      "Link": "/Alchemy/Concentrated%20Healing.png"
+    },
+	{
+      "Name": "5x Concentrated Healing Potion",
+	  "Emoji": 1180737220739600434,
+      "Link": "/Alchemy/5x%20Concentrated%20Healing.png"
+    },
+	{
+      "Name": "Enhanced Healing Potion(Level 30)",
+	  "Emoji": 1180732373638324294,
+      "Link": "/Alchemy/Enhanced%20Healing.png"
+    },
+	{
+      "Name": "5x Enhanced Healing Potion(Level 30)",
+	  "Emoji": 1180737223025500201,
+      "Link": "/Alchemy/5x%20Enhanced%20Healing.png"
+    },
+	{
+      "Name": "Potions of Boosting",
+	  "Emoji": 1180733941464973342,
+      "Link": "/Alchemy/Potions%20of%20Boosting.png"
+    },
+	{
+      "Name": "5x Potions of Boosting",
+	  "Emoji": 1180737200896352276,
+      "Link": "/Alchemy/5x%20Potions%20of%20Boosting.png"
+    },
+	{
+      "Name": "10x Potions of Boosting",
+	  "Emoji": 1180737202523750411,
+      "Link": "/Alchemy/10x%20Potions%20of%20Boosting.png"
+    },
+	{
+      "Name": "Empowered Strikes Potion",
+	  "Emoji": 1180732408971145287,
+      "Link": "/Alchemy/Empowered%20Strikes%20Potion.png"
+    },
+	{
+      "Name": "5x Empowered Strikes Potion",
+	  "Emoji": 1180737211520536576,
+      "Link": "/Alchemy/5x%20Empowered%20Strikes%20Potion.png"
+    },
+	{
+      "Name": "10x Empowered Strikes Potion",
+	  "Emoji": 1180737214313943051,
+      "Link": "/Alchemy/10x%20Empowered%20Strikes%20Potion.png"
+    },
+	{
+      "Name": "Super Charger Potion",
+	  "Emoji": 1180732396702801940,
+      "Link": "/Alchemy/Super%20Charger%20Potion.png"
+    },
+	{
+      "Name": "Luck Potion",
+	  "Emoji": 1180732386342871122,
+      "Link": "/Alchemy/Luck%20Potion.png"
+    },
+	{
+      "Name": "5x Luck Potion",
+	  "Emoji": 1180737225378508910,
+      "Link": "/Alchemy/5x%20Luck%20Potion.png"
+    },
+	{
+      "Name": "10x Luck Potion",
+	  "Emoji": 1180737198295883869,
+      "Link": "/Alchemy/10x%20Luck%20Potion.png"
+    },
+	{
+      "Name": "Enhanced Potions of Boosting(Level 30)",
+	  "Emoji": 1180733944950444132,
+      "Link": "/Alchemy/Enhanced%20Potions%20of%20Boosting.png"
+    },
+	{
+      "Name": "5x Enhanced Potions of Boosting(Level 30)",
+	  "Emoji": 1180737206135029760,
+      "Link": "/Alchemy/5x%20Enhanced%20Potions%20of%20Boosting.png"
+    },
+	{
+      "Name": "10x Enhanced Potions of Boosting(Level 30)",
+	  "Emoji": 1180737208311881809,
+      "Link": "/Alchemy/10x%20Enhanced%20Potions%20of%20Boosting.png"
+    },
+	{
+      "Name": "Enhanced Strikes Potion(Level 30)",
+	  "Emoji": 1180732360162029700,
+      "Link": "/Alchemy/Enhanced%20Strikes%20Potion.png"
+    },
+	{
+      "Name": "5x Enhanced Strikes Potion(Level 30)",
+	  "Emoji": 1180737216109084742,
+      "Link": "/Alchemy/5x%20Enhanced%20Strikes%20Potion.png"
+    },
+	{
+      "Name": "10x Enhanced Strikes Potion(Level 30)",
+	  "Emoji": 1180737218806030426,
+      "Link": "/Alchemy/10x%20Enhanced%20Strikes%20Potion.png"
+    },
+	{
+      "Name": "Fish Scent Attractor",
+	  "Emoji": 1180732362598907904,
+      "Link": "/Alchemy/Fish%20Scent%20Attractor.png"
+    },
+	{
+      "Name": "Potion of Runic Sight",
+	  "Emoji": 1180732391564791819,
+      "Link": "/Alchemy/Potion%20of%20Runic%20Sight.png"
+    },
+	{
+      "Name": "Masked Scent",
+	  "Emoji": 1180732378889584640,
+      "Link": "/Alchemy/Masked%20Scent.png"
+    },
+	{
+      "Name": "Speed Potion",
+	  "Emoji": 1180732648566575146,
+      "Link": "/Alchemy/Speed%20Potion.png"
+    },
+	{
+      "Name": "Pack Mule",
+	  "Emoji": 1180732388326785064,
+      "Link": "/Alchemy/Pack%20Mule.png"
+    },
+	{
+      "Name": "Giant Potion",
+	  "Emoji": 1180732367191683112,
+      "Link": "/Alchemy/Giant%20Potion.png"
+    },
+	{
+      "Name": "The Drink of Ithecac",
+	  "Emoji": 1180732381464887438,
+      "Link": "/Alchemy/The%20Drink%20of%20Ithecac.png"
+    },
+	{
+      "Name": "Chameleon Potion",
+	  "Emoji": 1180732364318580856,
+      "Link": "/Alchemy/Chameleon%20Potion.png"
+    },
+	{
+      "Name": "Body Lantern Potion",
+	  "Emoji": 1180732383314583635,
+      "Link": "/Alchemy/Body%20Lantern%20Potion.png"
+    },
+	{
+      "Name": "Tiles J A U D C",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%207.png"
+    },
+	{
+      "Name": "Tiles o B E F G",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%206.png"
+    },
+	{
+      "Name": "Tiles H I L M N",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%205.png"
+    },
+	{
+      "Name": "Tiles P Q R S T",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%204.png"
+    },
+	{
+      "Name": "Tiles 0 V W X Y",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%203.png"
+    },
+	{
+      "Name": "Tiles Z 1 x c e",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%202.png"
+    },
+	{
+      "Name": "Tiles g i n s t",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles%201.png"
+    },
+	{
+      "Name": "Tiles a K O",
+	  "Emoji": 1180730237374435348,
+      "Link": "/Alchemy/Tiles.png"
+    },
+	{
+      "Name": "Dye Recipes",
+	  "Emoji": 1180730573866672199,
+      "Link": "/Alchemy/Dyes.png"
+    },
+	{
+      "Name": "Metal Cog",
+	  "Emoji": 1180891559688933566,
+      "Link": "/Alchemy/Metal%20Cog.png"
+    },
+	{
+      "Name": "Tinny's Brew",
+	  "Emoji": 1180732381464887438,
+      "Link": "/Alchemy/Tinnys%20Brew.png"
+    },
+	{
+      "Name": "Potion of Summoning",
+	  "Emoji": 1180732364318580856,
+      "Link": "/Alchemy/Potion%20of%20Summoning.png"
+    }
+  ]
+}
