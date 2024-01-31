@@ -6051,38 +6051,38 @@
         {
             "SearchTerm": "wastelands light 1 I",
             "Description": "Wastelands Light I",
-            "Zone": "Wastelands",
+            "Zone": "The Forsaken Isle",
             "Type": "Winter Festival",
             "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
-            "Path": "/Wastelands/Wastelands%20Light%20I.png"
+            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20I.png"
         },
         {
             "SearchTerm": "wastelands light 2 II",
             "Description": "Wastelands Light II",
-            "Zone": "Wastelands",
+            "Zone": "The Forsaken Isle",
             "Type": "Winter Festival",
             "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
-            "Path": "/Wastelands/Wastelands%20Light%20II.png"
+            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20II.png"
         },
         {
             "SearchTerm": "wastelands light 3 III",
             "Description": "Wastelands Light III",
-            "Zone": "Wastelands",
+            "Zone": "The Forsaken Isle",
             "Type": "Winter Festival",
             "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
-            "Path": "/Wastelands/Wastelands%20Light%20III.png"
+            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20III.png"
         },
         {
             "SearchTerm": "wastelands light 4 IV",
             "Description": "Wastelands Light IV",
-            "Zone": "Wastelands",
+            "Zone": "The Forsaken Isle",
             "Type": "Winter Festival",
             "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
-            "Path": "/Wastelands/Wastelands%20Light%20IV.png"
+            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20IV.png"
         },
         {
             "SearchTerm": "water slide",
