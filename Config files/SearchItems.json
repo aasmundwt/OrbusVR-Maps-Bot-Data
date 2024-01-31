@@ -2858,7 +2858,7 @@
             "Description": "Highsteppe Light II",
             "Zone": "Highsteppe",
             "Type": "Winter Festival",
-            "NearestTeleport": "Traders Road",
+            "NearestTeleport": "Rope Bridge",
             "Emoji": 1053111001698013205,
             "Path": "/Highsteppe/Highsteppe%20Light%20II.png"
         },
@@ -2867,7 +2867,7 @@
             "Description": "Highsteppe Light III",
             "Zone": "Highsteppe",
             "Type": "Winter Festival",
-            "NearestTeleport": "Rope Bridge",
+            "NearestTeleport": "Hidden Garden",
             "Emoji": 1053111001698013205,
             "Path": "/Highsteppe/Highsteppe%20Light%20III.png"
         },
@@ -6053,7 +6053,7 @@
             "Description": "Wastelands Light I",
             "Zone": "Wastelands",
             "Type": "Winter Festival",
-            "NearestTeleport": "Cut Throat Forest",
+            "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
             "Path": "/Wastelands/Wastelands%20Light%20I.png"
         },
@@ -6062,7 +6062,7 @@
             "Description": "Wastelands Light II",
             "Zone": "Wastelands",
             "Type": "Winter Festival",
-            "NearestTeleport": "Cut Throat Forest",
+            "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
             "Path": "/Wastelands/Wastelands%20Light%20II.png"
         },
@@ -6071,7 +6071,7 @@
             "Description": "Wastelands Light III",
             "Zone": "Wastelands",
             "Type": "Winter Festival",
-            "NearestTeleport": "Old Growth",
+            "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
             "Path": "/Wastelands/Wastelands%20Light%20III.png"
         },
@@ -6080,7 +6080,7 @@
             "Description": "Wastelands Light IV",
             "Zone": "Wastelands",
             "Type": "Winter Festival",
-            "NearestTeleport": "Essence Ruins",
+            "NearestTeleport": "Free Fall",
             "Emoji": 1053111001698013205,
             "Path": "/Wastelands/Wastelands%20Light%20IV.png"
         },
