@@ -2242,6 +2242,42 @@
             "Path": "/Hollow's%20Creek/Forager(Shipping%20cart).png"
         },
         {
+            "SearchTerm": "forsaken lights 1 I",
+            "Description": "Forsaken Lights I",
+            "Zone": "The Forsaken Isle",
+            "Type": "Winter Festival",
+            "NearestTeleport": "Free Fall",
+            "Emoji": 1053111001698013205,
+            "Path": "/The%20Forsaken%20Isle/Forsaken%20Lights%20I.png"
+        },
+        {
+            "SearchTerm": "forsaken lights 2 II",
+            "Description": "Forsaken Lights II",
+            "Zone": "The Forsaken Isle",
+            "Type": "Winter Festival",
+            "NearestTeleport": "Free Fall",
+            "Emoji": 1053111001698013205,
+            "Path": "/The%20Forsaken%20Isle/Forsaken%20Lights%20II.png"
+        },
+        {
+            "SearchTerm": "forsaken lights 3 III",
+            "Description": "Forsaken Lights III",
+            "Zone": "The Forsaken Isle",
+            "Type": "Winter Festival",
+            "NearestTeleport": "Free Fall",
+            "Emoji": 1053111001698013205,
+            "Path": "/The%20Forsaken%20Isle/Forsaken%20Lights%20III.png"
+        },
+        {
+            "SearchTerm": "forsaken lights 4 IV",
+            "Description": "Forsaken Lights IV",
+            "Zone": "The Forsaken Isle",
+            "Type": "Winter Festival",
+            "NearestTeleport": "Free Fall",
+            "Emoji": 1053111001698013205,
+            "Path": "/The%20Forsaken%20Isle/Forsaken%20Lights%20IV.png"
+        },
+        {
             "SearchTerm": "fortified stafraster",
             "Description": "Fortified Stafraster",
             "Zone": "Flooded Rainforest",
@@ -2845,40 +2881,40 @@
             "Path": "/Highsteppe/Highsteppe%20Idol.png"
         },
         {
-            "SearchTerm": "highsteppe light 1 I",
-            "Description": "Highsteppe Light I",
+            "SearchTerm": "highsteppe lights 1 I",
+            "Description": "Highsteppe Lights I",
             "Zone": "Highsteppe",
             "Type": "Winter Festival",
             "NearestTeleport": "Traders Road",
             "Emoji": 1053111001698013205,
-            "Path": "/Highsteppe/Highsteppe%20Light%20I.png"
+            "Path": "/Highsteppe/Highsteppe%20Lights%20I.png"
         },
         {
-            "SearchTerm": "highsteppe light 2 II",
-            "Description": "Highsteppe Light II",
+            "SearchTerm": "highsteppe lights 2 II",
+            "Description": "Highsteppe Lights II",
             "Zone": "Highsteppe",
             "Type": "Winter Festival",
             "NearestTeleport": "Rope Bridge",
             "Emoji": 1053111001698013205,
-            "Path": "/Highsteppe/Highsteppe%20Light%20II.png"
+            "Path": "/Highsteppe/Highsteppe%20Lights%20II.png"
         },
         {
-            "SearchTerm": "highsteppe light 3 III",
-            "Description": "Highsteppe Light III",
+            "SearchTerm": "highsteppe lights 3 III",
+            "Description": "Highsteppe Lights III",
             "Zone": "Highsteppe",
             "Type": "Winter Festival",
             "NearestTeleport": "Hidden Garden",
             "Emoji": 1053111001698013205,
-            "Path": "/Highsteppe/Highsteppe%20Light%20III.png"
+            "Path": "/Highsteppe/Highsteppe%20Lights%20III.png"
         },
         {
-            "SearchTerm": "highsteppe light 4 IV",
-            "Description": "Highsteppe Light IV",
+            "SearchTerm": "highsteppe lights 4 IV",
+            "Description": "Highsteppe Lights IV",
             "Zone": "Highsteppe",
             "Type": "Winter Festival",
             "NearestTeleport": "Rope Bridge",
             "Emoji": 1053111001698013205,
-            "Path": "/Highsteppe/Highsteppe%20Light%20IV.png"
+            "Path": "/Highsteppe/Highsteppe%20Lights%20IV.png"
         },
         {
             "SearchTerm": "highsteppe raven",
@@ -3223,40 +3259,40 @@
             "Path": "/Lamavora/Lamavora%20Idol.png"
         },
         {
-            "SearchTerm": "lamavora light 1 I",
-            "Description": "Lamavora Light I",
+            "SearchTerm": "lamavora lights 1 I",
+            "Description": "Lamavora Lights I",
             "Zone": "Lamavora",
             "Type": "Winter Festival",
             "NearestTeleport": "Crystal Cave",
             "Emoji": 1053111001698013205,
-            "Path": "/Lamavora/Lamavora%20Light%20I.png"
+            "Path": "/Lamavora/Lamavora%20Lights%20I.png"
         },
         {
-            "SearchTerm": "lamavora light 2 II",
-            "Description": "Lamavora Light II",
+            "SearchTerm": "lamavora lights 2 II",
+            "Description": "Lamavora Lights II",
             "Zone": "Lamavora",
             "Type": "Winter Festival",
             "NearestTeleport": "Knight's Fort",
             "Emoji": 1053111001698013205,
-            "Path": "/Lamavora/Lamavora%20Light%20II.png"
+            "Path": "/Lamavora/Lamavora%20Lights%20II.png"
         },
         {
-            "SearchTerm": "lamavora light 3 III",
-            "Description": "Lamavora Light III",
+            "SearchTerm": "lamavora lights 3 III",
+            "Description": "Lamavora Lights III",
             "Zone": "Lamavora",
             "Type": "Winter Festival",
             "NearestTeleport": "Knight's Fort",
             "Emoji": 1053111001698013205,
-            "Path": "/Lamavora/Lamavora%20Light%20III.png"
+            "Path": "/Lamavora/Lamavora%20Lights%20III.png"
         },
         {
-            "SearchTerm": "lamavora light 4 IV",
-            "Description": "Lamavora Light IV",
+            "SearchTerm": "lamavora lights 4 IV",
+            "Description": "Lamavora Lights IV",
             "Zone": "Lamavora",
             "Type": "Winter Festival",
             "NearestTeleport": "Vulcans Point",
             "Emoji": 1053111001698013205,
-            "Path": "/Lamavora/Lamavora%20Light%20IV.png"
+            "Path": "/Lamavora/Lamavora%20Lights%20IV.png"
         },
         {
             "SearchTerm": "lamavora raven",
@@ -4312,40 +4348,40 @@
             "Path": "/Flooded%20Rainforest/Rainforest%20Idol.png"
         },
         {
-            "SearchTerm": "rainforest light 1 I",
-            "Description": "Rainforest Light I",
+            "SearchTerm": "rainforest lights 1 I",
+            "Description": "Rainforest Lights I",
             "Zone": "Flooded Rainforest",
             "Type": "Winter Festival",
             "NearestTeleport": "Demon's Cave",
             "Emoji": 1053111001698013205,
-            "Path": "/Flooded%20Rainforest/Rainforest%20Light%20I.png"
+            "Path": "/Flooded%20Rainforest/Rainforest%20Lights%20I.png"
         },
         {
-            "SearchTerm": "rainforest light 2 II",
-            "Description": "Rainforest Light II",
+            "SearchTerm": "rainforest lights 2 II",
+            "Description": "Rainforest Lights II",
             "Zone": "Flooded Rainforest",
             "Type": "Winter Festival",
             "NearestTeleport": "Demon's Cave",
             "Emoji": 1053111001698013205,
-            "Path": "/Flooded%20Rainforest/Rainforest%20Light%20II.png"
+            "Path": "/Flooded%20Rainforest/Rainforest%20Lights%20II.png"
         },
         {
-            "SearchTerm": "rainforest light 3 III",
-            "Description": "Rainforest Light III",
+            "SearchTerm": "rainforest lights 3 III",
+            "Description": "Rainforest Lights III",
             "Zone": "Flooded Rainforest",
             "Type": "Winter Festival",
             "NearestTeleport": "Demon's Cave",
             "Emoji": 1053111001698013205,
-            "Path": "/Flooded%20Rainforest/Rainforest%20Light%20III.png"
+            "Path": "/Flooded%20Rainforest/Rainforest%20Lights%20III.png"
         },
         {
-            "SearchTerm": "rainforest light 4 IV",
-            "Description": "Rainforest Light IV",
+            "SearchTerm": "rainforest lights 4 IV",
+            "Description": "Rainforest Lights IV",
             "Zone": "Flooded Rainforest",
             "Type": "Winter Festival",
             "NearestTeleport": "Wagon Graveyard",
             "Emoji": 1053111001698013205,
-            "Path": "/Flooded%20Rainforest/Rainforest%20Light%20IV.png"
+            "Path": "/Flooded%20Rainforest/Rainforest%20Lights%20IV.png"
         },
         {
             "SearchTerm": "rainforest raven",
@@ -4414,7 +4450,7 @@
             "SearchTerm": "resurrection ritual",
             "Description": "Resurrection Ritual",
             "Zone": "Highsteppe City",
-            "Type": "Spell Rune",
+            "Type": "Quest Item",
             "NearestTeleport": "",
             "Emoji": 1040768900025036841,
             "Path": "/Highsteppe%20City/Resurrection%20Ritual.png"
@@ -6047,42 +6083,6 @@
             "NearestTeleport": "Crystal Cave",
             "Emoji": 1040768883767922909,
             "Path": "/Lamavora/Warrior(Grim%20Reaper%20III).png"
-        },
-        {
-            "SearchTerm": "wastelands light 1 I",
-            "Description": "Wastelands Light I",
-            "Zone": "The Forsaken Isle",
-            "Type": "Winter Festival",
-            "NearestTeleport": "Free Fall",
-            "Emoji": 1053111001698013205,
-            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20I.png"
-        },
-        {
-            "SearchTerm": "wastelands light 2 II",
-            "Description": "Wastelands Light II",
-            "Zone": "The Forsaken Isle",
-            "Type": "Winter Festival",
-            "NearestTeleport": "Free Fall",
-            "Emoji": 1053111001698013205,
-            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20II.png"
-        },
-        {
-            "SearchTerm": "wastelands light 3 III",
-            "Description": "Wastelands Light III",
-            "Zone": "The Forsaken Isle",
-            "Type": "Winter Festival",
-            "NearestTeleport": "Free Fall",
-            "Emoji": 1053111001698013205,
-            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20III.png"
-        },
-        {
-            "SearchTerm": "wastelands light 4 IV",
-            "Description": "Wastelands Light IV",
-            "Zone": "The Forsaken Isle",
-            "Type": "Winter Festival",
-            "NearestTeleport": "Free Fall",
-            "Emoji": 1053111001698013205,
-            "Path": "/The%20Forsaken%20Isle/Wastelands%20Light%20IV.png"
         },
         {
             "SearchTerm": "water slide",
