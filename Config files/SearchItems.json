@@ -2,7 +2,7 @@
     "items": [
         {
             "SearchTerm": "10x empowered strikes potion 10x luck potion 5x potions of boosting 10x potions of boosting",
-            "Description": "10x Empowered Strikes Potion\n10x Luck Potion\n5x Potions of Boosting\n10x Potions of Boosting",
+            "Description": "10x Empowered Strikes Potion,\n10x Luck Potion,\n5x Potions of Boosting,\n10x Potions of Boosting",
             "Zone": "Highsteppe City",
             "Type": "Scroll",
             "NearestTeleport": "Fellowship Court",
@@ -11,7 +11,7 @@
         },
         {
             "SearchTerm": "10x enhanced potions of boosting 10x enhanced strikes potions",
-            "Description": "10x Enhanced Potions Of Boosting\n10x Enhanced Strikes Potions",
+            "Description": "10x Enhanced Potions Of Boosting,\n10x Enhanced Strikes Potions",
             "Zone": "Lamavora",
             "Type": "Scroll",
             "NearestTeleport": "Crystal Cave",
@@ -29,7 +29,7 @@
         },
         {
             "SearchTerm": "5x enhanced potions of boosting 5x enhanced healing potions 5x enhanced strikes potions",
-            "Description": "5x Enhanced Potions Of Boosting\n5x Enhanced Healing Potions\n5x Enhanced Strikes Potions",
+            "Description": "5x Enhanced Potions Of Boosting,\n5x Enhanced Healing Potions,\n5x Enhanced Strikes Potions",
             "Zone": "Hulthine's Basin",
             "Type": "Scroll",
             "NearestTeleport": "Flying High",
@@ -38,7 +38,7 @@
         },
         {
             "SearchTerm": "5x luck potion enhanced potions of boosting",
-            "Description": "5x Luck Potion\nEnhanced Potions Of Boosting",
+            "Description": "5x Luck Potion,\nEnhanced Potions Of Boosting",
             "Zone": "Wastelands",
             "Type": "Scroll",
             "NearestTeleport": "Essence Ruins",
@@ -830,7 +830,7 @@
         },
         {
             "SearchTerm": "chamelion potion body lantern potion",
-            "Description": "Chamelion Potion\nBody Lantern Potion",
+            "Description": "Chamelion Potion,\nBody Lantern Potion",
             "Zone": "Player House",
             "Type": "Scroll",
             "NearestTeleport": "Fellowship Court",
@@ -1064,7 +1064,7 @@
         },
         {
             "SearchTerm": "concentrated healing 5x concentrated healing",
-            "Description": "Concentrated Healing\n5x Concentrated Healing",
+            "Description": "Concentrated Healing,\n5x Concentrated Healing",
             "Zone": "Player House",
             "Type": "Scroll",
             "NearestTeleport": "Fellowship Court",
@@ -1568,7 +1568,7 @@
         },
         {
             "SearchTerm": "empowered strikes potion luck potion",
-            "Description": "Empowered Strikes Potion\nLuck Potion",
+            "Description": "Empowered Strikes Potion,\nLuck Potion",
             "Zone": "Highsteppe",
             "Type": "Scroll",
             "NearestTeleport": "Traders Road",
@@ -2171,7 +2171,7 @@
         },
         {
             "SearchTerm": "fish scent attractor potion of runic sight",
-            "Description": "Fish Scent Attractor\nPotion Of Runic Sight",
+            "Description": "Fish Scent Attractor,\nPotion Of Runic Sight",
             "Zone": "Highsteppe City",
             "Type": "Scroll",
             "NearestTeleport": "Fellowship Court",
@@ -5348,7 +5348,7 @@
         },
         {
             "SearchTerm": "super charger potion pack mule potion masked scent potion the drink of ithecac",
-            "Description": "Super Charger Potion\nPack Mule Potion\nMasked Scent Potion\nThe Drink of Ithecac",
+            "Description": "Super Charger Potion,\nPack Mule Potion,\nMasked Scent Potion,\nThe Drink of Ithecac",
             "Zone": "Highsteppe City",
             "Type": "Scroll",
             "NearestTeleport": "Fellowship Court",
