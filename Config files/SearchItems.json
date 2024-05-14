@@ -1369,13 +1369,22 @@
             "Path": "/Wastelands/Diary%20of%20Lord%20Ethan%20Runval6.png"
         },
         {
-            "SearchTerm": "disgraced explorer and archeologist settles in town ",
-            "Description": "DISGRACED EXPLORER AND\nARCHEOLOGIST SETTLES IN TOWN!",
+            "SearchTerm": "diary of marlowe the grey",
+            "Description": "Diary of Marlowe The Grey",
             "Zone": "Highsteppe City",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/DISGRACED%20EXPLORER%20AND.png"
+            "Path": "/Highsteppe%20City/Diary%20of%20Marlowe%20The%20Grey.png"
+        },
+        {
+            "SearchTerm": "diary of nocnitsa",
+            "Description": "Diary of Nocnitsa",
+            "Zone": "Wastelands",
+            "Type": "Lore",
+            "NearestTeleport": "Old Growth",
+            "Emoji": 1040768886859120730,
+            "Path": "/Wastelands/Diary%20of%20Nocnitsa.png"
         },
         {
             "SearchTerm": "dovregubben",
@@ -1385,15 +1394,6 @@
             "NearestTeleport": "Old Growth",
             "Emoji": 1040768273110802442,
             "Path": "/Abandoned%20Mine/Dovregubben.png"
-        },
-        {
-            "SearchTerm": "dragon info",
-            "Description": "Dragon Info",
-            "Zone": "Highsteppe City",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/Dragon%20Info.png"
         },
         {
             "SearchTerm": "dragon scholar",
@@ -2854,13 +2854,22 @@
             "Path": "/The%20Lair/Hidden%20Gem%20XX.png"
         },
         {
-            "SearchTerm": "hidden secrets by tinnethara mulbirth",
-            "Description": "Hidden Secrets\nby Tinnethara Mulbirth",
+            "SearchTerm": "hidden secrets",
+            "Description": "Hidden Secrets",
             "Zone": "Highsteppe City",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
             "Path": "/Highsteppe%20City/Hidden%20Secrets.png"
+        },
+        {
+            "SearchTerm": "highsteppe enquirer helga sarrow",
+            "Description": "Highsteppe Enquirer\nHelga Sarrow",
+            "Zone": "Highsteppe City",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Highsteppe%20City/Highsteppe%20Enquirer.png"
         },
         {
             "SearchTerm": "highsteppe glodgoren",
@@ -3124,6 +3133,15 @@
             "Path": "/Wastelands/Key%20Thief.png"
         },
         {
+            "SearchTerm": "khabor jan  missing persons i  hidden quest",
+            "Description": "Khabor Jan\n(Missing persons I)",
+            "Zone": "Player House",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Player%20House/Khabor%20Jan.png"
+        },
+        {
             "SearchTerm": "king karnos",
             "Description": "King Kar'Nos",
             "Zone": "K'tula's Cove",
@@ -3349,6 +3367,15 @@
             "Path": "/Wastelands/Large%20Minnow3.png"
         },
         {
+            "SearchTerm": "last account of lakewood inn",
+            "Description": "Last Account of Lakewood Inn",
+            "Zone": "Player House",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Player%20House/Last%20Account%20of%20Lakewood%20Inn.png"
+        },
+        {
             "SearchTerm": "last stand",
             "Description": "Last Stand",
             "Zone": "Highsteppe",
@@ -3538,15 +3565,6 @@
             "Path": "/Highsteppe/Loose%20Experiment.png"
         },
         {
-            "SearchTerm": "lost account of lakewood inn",
-            "Description": "Lost Account of Lakewood Inn",
-            "Zone": "Player House",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Player%20House/Lost%20Account%20of%20Lakewood%20Inn.png"
-        },
-        {
             "SearchTerm": "lucal lizard hidden gems ",
             "Description": "Lucal Lizard(Hidden Gems)",
             "Zone": "Mugwood",
@@ -3610,13 +3628,13 @@
             "Path": "/Wastelands/Marksman%20Scav2.png"
         },
         {
-            "SearchTerm": "marlowe the grays secrets",
-            "Description": "Marlowe the Gray's Secrets",
+            "SearchTerm": "marlowe the grey",
+            "Description": "Marlowe the Grey",
             "Zone": "Highsteppe City",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/Marlowe%20the%20Gray's%20Secrets.png"
+            "Path": "/Highsteppe%20City/Marlowe%20the%20Grey.png"
         },
         {
             "SearchTerm": "marlowe the grey pvp missions",
@@ -3736,15 +3754,6 @@
             "Path": "/Highsteppe%20City/Misc%20Dye%20Recipes.png"
         },
         {
-            "SearchTerm": "missing persons i khabor jan hidden quest",
-            "Description": "Missing persons I\nKhabor Jan",
-            "Zone": "Player House",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Player%20House/Missing%20persons%20I.png"
-        },
-        {
             "SearchTerm": "missing persons ii scroll hidden quest",
             "Description": "Missing Persons II",
             "Zone": "Highsteppe",
@@ -3761,15 +3770,6 @@
             "NearestTeleport": "Rope Bridge",
             "Emoji": 1040768759176114367,
             "Path": "/Highsteppe/Missing%20Persons%20V.png"
-        },
-        {
-            "SearchTerm": "missing persons vi the ideas of janism hidden quest",
-            "Description": "Missing persons VI\nThe Ideas of Janism",
-            "Zone": "Highsteppe City",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/Missing%20persons%20VI.png"
         },
         {
             "SearchTerm": "missing persons vii sword hidden quest",
@@ -4040,15 +4040,6 @@
             "NearestTeleport": "Old Growth",
             "Emoji": 1040768883767922909,
             "Path": "/Wastelands/Nocnitsa.png"
-        },
-        {
-            "SearchTerm": "nocnitsa dialogue",
-            "Description": "Nocnitsa Dialogue",
-            "Zone": "Wastelands",
-            "Type": "Lore",
-            "NearestTeleport": "Old Growth",
-            "Emoji": 1040768886859120730,
-            "Path": "/Wastelands/Nocnitsa%20Dialogue.png"
         },
         {
             "SearchTerm": "nomads hut",
@@ -4799,12 +4790,12 @@
         },
         {
             "SearchTerm": "sicilus grimoire",
-            "Description": "Sicilus Grimoire",
+            "Description": "Sicilus' Grimoire",
             "Zone": "Highsteppe",
             "Type": "Lore",
             "NearestTeleport": "Rope Bridge",
             "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe/Sicilus%20Grimoire.png"
+            "Path": "/Highsteppe/Sicilus'%20Grimoire.png"
         },
         {
             "SearchTerm": "sicilus grimoire entry",
@@ -4969,6 +4960,15 @@
             "Path": "/Wastelands/Sniper%20Scav2.png"
         },
         {
+            "SearchTerm": "so you want to own a dragon    ",
+            "Description": "So you want to own a dragon...?",
+            "Zone": "Highsteppe City",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Highsteppe%20City/So%20you%20want%20to%20own%20a%20dragon....png"
+        },
+        {
             "SearchTerm": "soldier",
             "Description": "Soldier",
             "Zone": "Thorndell Meadow",
@@ -5003,15 +5003,6 @@
             "NearestTeleport": "Traders Road",
             "Emoji": 1040768759176114367,
             "Path": "/Thorndell%20Meadow/Soldier(Field%20Patrol).png"
-        },
-        {
-            "SearchTerm": "song of nodenghast book i song of nodenghast book ii",
-            "Description": "Song of Nodenghast book I\nSong of Nodenghast book II",
-            "Zone": "Flooded Rainforest",
-            "Type": "Lore",
-            "NearestTeleport": "Wagon Graveyard",
-            "Emoji": 1040768886859120730,
-            "Path": "/Flooded%20Rainforest/Song%20of%20Nodenghast%20book%20I.png"
         },
         {
             "SearchTerm": "sourbells",
@@ -5581,58 +5572,58 @@
             "Path": "/Highsteppe%20City/The%20Beginning.png"
         },
         {
-            "SearchTerm": "the cigar merchant  by ernest trimm chapter ii  page 1",
-            "Description": "The Cigar Merchant \nBy Ernest Trimm\nChapter II, Page 1",
-            "Zone": "Lamavora",
-            "Type": "Quest Item",
-            "NearestTeleport": "Knight's Fort",
-            "Emoji": 1040768900025036841,
-            "Path": "/Lamavora/The%20Cigar%20Merchant%20.png"
-        },
-        {
-            "SearchTerm": "the cigar merchant  by ernest trimm chapter ii  page 2",
-            "Description": "The Cigar Merchant \nBy Ernest Trimm\nChapter II, Page 2",
-            "Zone": "Lamavora",
-            "Type": "Quest Item",
-            "NearestTeleport": "Knight's Fort",
-            "Emoji": 1040768900025036841,
-            "Path": "/Lamavora/The%20Cigar%20Merchant%201.png"
-        },
-        {
-            "SearchTerm": "the cigar merchant by ernest trimm capter i",
-            "Description": "The Cigar Merchant\nBy Ernest Trimm\nCapter I",
-            "Zone": "Highsteppe City",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant2.png"
-        },
-        {
-            "SearchTerm": "the cigar merchant by ernest trimm capter iii",
-            "Description": "The Cigar Merchant\nBy Ernest Trimm\nCapter III",
+            "SearchTerm": "the cigar merchant capter iii",
+            "Description": "The Cigar Merchant\nCapter III",
             "Zone": "Flooded Rainforest",
             "Type": "Lore",
             "NearestTeleport": "Nomad's Hut",
             "Emoji": 1040768886859120730,
-            "Path": "/Flooded%20Rainforest/The%20Cigar%20Merchant3.png"
+            "Path": "/Flooded%20Rainforest/The%20Cigar%20Merchant.png"
         },
         {
-            "SearchTerm": "the cigar merchant by ernest trimm chapter ii  page 3 5",
-            "Description": "The Cigar Merchant\nBy Ernest Trimm\nChapter II, Page 3-5",
+            "SearchTerm": "the cigar merchant chapter ii  page 1",
+            "Description": "The Cigar Merchant\nChapter II, Page 1",
+            "Zone": "Lamavora",
+            "Type": "Quest Item",
+            "NearestTeleport": "Knight's Fort",
+            "Emoji": 1040768900025036841,
+            "Path": "/Lamavora/The%20Cigar%20Merchant1.png"
+        },
+        {
+            "SearchTerm": "the cigar merchant chapter ii  page 2",
+            "Description": "The Cigar Merchant\nChapter II, Page 2",
+            "Zone": "Lamavora",
+            "Type": "Quest Item",
+            "NearestTeleport": "Knight's Fort",
+            "Emoji": 1040768900025036841,
+            "Path": "/Lamavora/The%20Cigar%20Merchant2.png"
+        },
+        {
+            "SearchTerm": "the cigar merchant chapter ii  page 3 5",
+            "Description": "The Cigar Merchant\nChapter II, Page 3-5",
             "Zone": "Lamavora",
             "Type": "Lore",
             "NearestTeleport": "Crystal Cave",
             "Emoji": 1040768886859120730,
-            "Path": "/Lamavora/The%20Cigar%20Merchant4.png"
+            "Path": "/Lamavora/The%20Cigar%20Merchant3.png"
         },
         {
-            "SearchTerm": "the cigar merchant by ernest trimm chapter iv   v",
-            "Description": "The Cigar Merchant\nBy Ernest Trimm\nChapter IV - V",
+            "SearchTerm": "the cigar merchant chapter iv   v",
+            "Description": "The Cigar Merchant\nChapter IV - V",
             "Zone": "Highsteppe City",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant5.png"
+            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant4.png"
+        },
+        {
+            "SearchTerm": "the cigar merchant  chapter i",
+            "Description": "The Cigar Merchant\r\nChapter I",
+            "Zone": "Highsteppe City",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant.png"
         },
         {
             "SearchTerm": "the cleansing of l visile",
@@ -5671,6 +5662,15 @@
             "Path": "/Player%20House/The%20History%20of%20the%20Great%20Shift.png"
         },
         {
+            "SearchTerm": "the ideas of janism  missing persons vi  hidden quest",
+            "Description": "The Ideas of Janism\n(Missing persons VI)",
+            "Zone": "Highsteppe City",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Highsteppe%20City/The%20Ideas%20of%20Janism.png"
+        },
+        {
             "SearchTerm": "the lair dlc ",
             "Description": "The Lair(DLC)",
             "Zone": "Highsteppe",
@@ -5680,8 +5680,17 @@
             "Path": "/Highsteppe/The%20Lair(DLC).png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos chapter 1   2",
-            "Description": "The Tragic Tale of Oscar and Markos\nChapter 1 - 2",
+            "SearchTerm": "the song of nodenghast book 1 the song of nodenghast book 2",
+            "Description": "The Song of Nodenghast book 1\nThe Song of Nodenghast book 2",
+            "Zone": "Flooded Rainforest",
+            "Type": "Lore",
+            "NearestTeleport": "Wagon Graveyard",
+            "Emoji": 1040768886859120730,
+            "Path": "/Flooded%20Rainforest/The%20Song%20of%20Nodenghast%20book%201.png"
+        },
+        {
+            "SearchTerm": "the tragic tale of oscar and markos chapter i   ii",
+            "Description": "The Tragic Tale of Oscar and Markos\nChapter I - II",
             "Zone": "Player House",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
@@ -5689,8 +5698,8 @@
             "Path": "/Player%20House/The%20Tragic%20Tale%20of%20Oscar%20and%20Markos.png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos chapter 3   4",
-            "Description": "The Tragic Tale of Oscar and Markos\nChapter 3 - 4",
+            "SearchTerm": "the tragic tale of oscar and markos chapter iii   iv",
+            "Description": "The Tragic Tale of Oscar and Markos\nChapter III - IV",
             "Zone": "Player House",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
@@ -5698,8 +5707,8 @@
             "Path": "/Player%20House/The%20Tragic%20Tale%20of%20Oscar%20and%20Markos1.png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos chapter 7",
-            "Description": "The Tragic Tale of Oscar and Markos\nChapter 7",
+            "SearchTerm": "the tragic tale of oscar and markos chapter v   vi",
+            "Description": "The Tragic Tale of Oscar and Markos\nChapter V - VI",
             "Zone": "Player House",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
@@ -5707,13 +5716,13 @@
             "Path": "/Player%20House/The%20Tragic%20Tale%20of%20Oscar%20and%20Markos2.png"
         },
         {
-            "SearchTerm": "the tragic tale of oscar and markos  chapter 5   6",
-            "Description": "The Tragic Tale of Oscar and Markos,\nChapter 5 - 6",
+            "SearchTerm": "the tragic tale of oscar and markos chapter vii",
+            "Description": "The Tragic Tale of Oscar and Markos\nChapter VII",
             "Zone": "Player House",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
-            "Path": "/Player%20House/The%20Tragic%20Tale%20of%20Oscar%20and%20Markos,.png"
+            "Path": "/Player%20House/The%20Tragic%20Tale%20of%20Oscar%20and%20Markos3.png"
         },
         {
             "SearchTerm": "thorndell meadow dlc ",
