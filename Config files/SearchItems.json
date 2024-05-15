@@ -3629,12 +3629,12 @@
         },
         {
             "SearchTerm": "marlowe the grey",
-            "Description": "Marlowe the Grey",
+            "Description": "Marlowe The Grey",
             "Zone": "Highsteppe City",
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/Marlowe%20the%20Grey.png"
+            "Path": "/Highsteppe%20City/Marlowe%20The%20Grey.png"
         },
         {
             "SearchTerm": "marlowe the grey pvp missions",
@@ -3643,7 +3643,7 @@
             "Type": "Mission Vendor",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768745511080056,
-            "Path": "/Highsteppe%20City/Marlowe%20The%20Grey.png"
+            "Path": "/Highsteppe%20City/Marlowe%20The%20Grey1.png"
         },
         {
             "SearchTerm": "master carpenter",
@@ -4441,7 +4441,7 @@
             "SearchTerm": "resurrection ritual",
             "Description": "Resurrection Ritual",
             "Zone": "Highsteppe City",
-            "Type": "Quest Item",
+            "Type": "Spell Rune",
             "NearestTeleport": "",
             "Emoji": 1040768900025036841,
             "Path": "/Highsteppe%20City/Resurrection%20Ritual.png"
@@ -5581,13 +5581,22 @@
             "Path": "/Flooded%20Rainforest/The%20Cigar%20Merchant.png"
         },
         {
+            "SearchTerm": "the cigar merchant chapter i",
+            "Description": "The Cigar Merchant\nChapter I",
+            "Zone": "Highsteppe City",
+            "Type": "Lore",
+            "NearestTeleport": "Fellowship Court",
+            "Emoji": 1040768886859120730,
+            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant1.png"
+        },
+        {
             "SearchTerm": "the cigar merchant chapter ii  page 1",
             "Description": "The Cigar Merchant\nChapter II, Page 1",
             "Zone": "Lamavora",
             "Type": "Quest Item",
             "NearestTeleport": "Knight's Fort",
             "Emoji": 1040768900025036841,
-            "Path": "/Lamavora/The%20Cigar%20Merchant1.png"
+            "Path": "/Lamavora/The%20Cigar%20Merchant2.png"
         },
         {
             "SearchTerm": "the cigar merchant chapter ii  page 2",
@@ -5596,7 +5605,7 @@
             "Type": "Quest Item",
             "NearestTeleport": "Knight's Fort",
             "Emoji": 1040768900025036841,
-            "Path": "/Lamavora/The%20Cigar%20Merchant2.png"
+            "Path": "/Lamavora/The%20Cigar%20Merchant3.png"
         },
         {
             "SearchTerm": "the cigar merchant chapter ii  page 3 5",
@@ -5605,7 +5614,7 @@
             "Type": "Lore",
             "NearestTeleport": "Crystal Cave",
             "Emoji": 1040768886859120730,
-            "Path": "/Lamavora/The%20Cigar%20Merchant3.png"
+            "Path": "/Lamavora/The%20Cigar%20Merchant4.png"
         },
         {
             "SearchTerm": "the cigar merchant chapter iv   v",
@@ -5614,16 +5623,7 @@
             "Type": "Lore",
             "NearestTeleport": "Fellowship Court",
             "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant4.png"
-        },
-        {
-            "SearchTerm": "the cigar merchant  chapter i",
-            "Description": "The Cigar Merchant\r\nChapter I",
-            "Zone": "Highsteppe City",
-            "Type": "Lore",
-            "NearestTeleport": "Fellowship Court",
-            "Emoji": 1040768886859120730,
-            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant.png"
+            "Path": "/Highsteppe%20City/The%20Cigar%20Merchant5.png"
         },
         {
             "SearchTerm": "the cleansing of l visile",
