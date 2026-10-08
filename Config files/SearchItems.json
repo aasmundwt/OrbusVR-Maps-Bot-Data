@@ -1954,13 +1954,13 @@
             "Path": "/Lamavora/Essence%20Miner.png"
         },
         {
-            "SearchTerm": "essence part",
-            "Description": "Essence Part",
+            "SearchTerm": "spare esasa parts",
+            "Description": "Spare Esasa Parts",
             "Zone": "Highsteppe",
             "Type": "Quest Item",
             "NearestTeleport": "Rope Bridge",
             "Emoji": 1040768904445825124,
-            "Path": "/Highsteppe/Essence%20Part.png"
+            "Path": "/Highsteppe/Spare%20Esasa%20Parts.png"
         },
         {
             "SearchTerm": "essence ruins",
